@@ -74,5 +74,39 @@ SQL
 5. Payment Method Preference by Region
 
 
+# 🔹 Power BI Objectives (Visualizations & Dashboards)
+
+1. Sales Performance Dashboard
+
+Your goal is to create a Sales Performance Dashboard in Power BI that shows:
+
+Total Revenue
+
+Top-Selling Products
+
+2. Customer Demographics Analysis
+
+The main goal of Customer Demographic Analysis is to understand customer behavior and preferences based on key demographic factors such as age, gender, region, and purchasing habits. 
+This helps businesses make data-driven decisions to improve marketing, sales, and customer engagement.
+
+3. Discount & Profitability Impact
+
+The objective of this analysis is to understand how discounts affect sales, revenue, and profitability to make data-driven pricing and discount strategies.
+
+4. Order Status & Returns Analysis
+
+The Order Status & Return Analysis helps businesses track and understand order fulfillment efficiency, customer satisfaction, and revenue impact from returns & cancellations
+
+5. Payment Method & Customer Spending Behavior
+
+The goal of analyzing Payment Methods & Customer Spending Behavior is to understand how customers prefer to pay and how much they spend, which helps in making data-driven business decisions.
+
+
+
+
+
+
+
+
 
 
