@@ -1,0 +1,20 @@
+File Name: sales_data_large.csv
+Rows: 10,000+ | Columns: 15+
+Key Columns:
+
+Order_ID,
+Date,
+Product_Name,
+Category,
+Unit_Price,
+Quantity_Sold,
+Total_Sales,
+Discount,
+Profit_Margin,
+Customer_ID,
+Customer_Age,
+Customer_Gender,
+Region,
+Payment_Method,
+Order_Status,
+Shipping_Cost
