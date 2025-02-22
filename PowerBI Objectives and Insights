@@ -4,9 +4,9 @@
 
 Your goal is to create a Sales Performance Dashboard in Power BI that shows:
 
-✅ Total Revenue
+Total Revenue
 
-✅ Top-Selling Products
+Top-Selling Products
 
 2. Customer Demographics Analysis
 
@@ -19,10 +19,13 @@ The objective of this analysis is to understand how discounts affect sales, reve
 
 4. Order Status & Returns Analysis
 
+The Order Status & Return Analysis helps businesses track and understand order fulfillment efficiency, customer satisfaction, and revenue impact from returns & cancellations
 
-
-Visuals: Donut Chart (Order Status Breakdown), Table (Returned Orders & Lost Revenue).
 5. Payment Method & Customer Spending Behavior
-✅ Compare which payment method is most popular and how customers spend.
 
-Visuals: Pie Chart (Payment Methods), Scatter Plot (Customer Spending Patterns).
+The goal of analyzing Payment Methods & Customer Spending Behavior is to understand how customers prefer to pay and how much they spend, which helps in making data-driven business decisions.
+
+
+
+
+
