@@ -1,6 +1,6 @@
 # Sales-Data-Analysis
 
-# OVERVIEW
+OVERVIEW
 
 Dataset Name: sales_data_large.csv
 Rows: 10,000+
