@@ -14,4 +14,4 @@ This project analyzes sales data using SQL for data extraction and Power BI for 
 
 🌎 Regional sales performance
 
-💳 Customer spending behavior & payment method analysis
+💳 Customer spending behavior & payment method analysi
