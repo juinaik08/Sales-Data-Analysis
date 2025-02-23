@@ -174,23 +174,6 @@ order by Region, Total_Orders;
 
 # Conclusion:
 
-1. The top 5 products contribute 35% of total revenue.
-
-2. Credit Cards (40%) and Digital Wallets (30%) were the most preferred payment methods.
-
-High-value customers made repeat purchases, averaging 25% higher spending than casual buyers.
-
-Customers who used digital payments had higher transaction values.
-
-3. While discounts increased sales volume, profit margins declined by 8% on average.
-
-Some products had high discounts but still yielded lower revenue.
-
-4. 10% of orders were returned, with the highest return rates in electronics.
-
-Delayed shipments were correlated with higher return rates.
-
-
 This sales data analysis project provided actionable insights into sales performance, customer preferences, and profitability trends. The findings will help businesses optimize sales strategies, improve operations, and enhance customer satisfaction. Future improvements could include predictive analytics for demand forecasting and AI-driven customer segmentation for better targeting.
 
 
